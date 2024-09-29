@@ -1,2 +1,1 @@
-# terrykim.github.io
-Terry Kim Programming Student Seeking Co-op Opportunity
+# Terry Kim Programming Student Seeking Co-op Opportunity
